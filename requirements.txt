@@ -1,4 +1,0 @@
-collections
-discord.py
-requests
-asyncio
